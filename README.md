@@ -19,4 +19,4 @@ This project demonstrates the core mathematical mechanics behind deep neural net
 - Matplotlib
 
 ## Results
-The model learns to classify digits (0–9) directly from 28x28 grayscale pixel arrays, reaching ~85%+ accuracy through iterative gradient updates.
+The model learns to classify digits (0–9) directly from 28x28 grayscale pixel arrays, reaching ~95%+ accuracy through iterative gradient updates.
